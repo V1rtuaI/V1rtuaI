@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Vade. You can view it via my repositories.
+- 🌱 I’m currently learning JavaScript, TypeScript and GO.
+- 📫 How to reach me: Discord: Ethan#7000.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm 17 :).
+
 <!--
 **V1rtuaI/V1rtuaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
