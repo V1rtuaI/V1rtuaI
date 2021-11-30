@@ -7,7 +7,7 @@
 - 🔭 I own the Vade Community, a Discord Server with over 1,500 members!
 - 🌱 Currently I own a resturaunt in the United Kingdom!
 - 👯 In my spare time I love to learn new programming languages!
-- 🥅 2021 Goals: Learn CSS.
+- 🥅 2021 Goals: Learn C#.
 - ⚡ Fun fact: All I do is have fun!
 
 ### Connect with me:
