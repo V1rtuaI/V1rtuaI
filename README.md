@@ -1,7 +1,6 @@
 ### Hi there, I'm Ethan - aka [V1rtuaI][youtube] 👋 
 
-[![Website](Vade Site)](https://vade-bot.com)
-[![Discord Join](Join the Discord!)](https://discord.gg/DFa5wNFWgP)
+
 
 ## I'm a happy, 17 year old guy who happens to be a chef!
 
