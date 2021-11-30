@@ -47,7 +47,7 @@
 
 <!-- YOUTUBE:START -->
 - [Vade Team Rocket League Montage](https://www.youtube.com/watch?v=krt3avGzJHc&t=2s)
-- Vade | Memory Lane](https://www.youtube.com/watch?v=ou-BGbZOg6A&t=2s)
+- [Vade | Memory Lane](https://www.youtube.com/watch?v=ou-BGbZOg6A&t=2s)
 - [Dualtage | Vade V1rtuaI x Vade iscc](https://www.youtube.com/watch?v=HJnzgZWOt-8)
 <!-- YOUTUBE:END -->
 
