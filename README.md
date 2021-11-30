@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan - aka [V1rtuaI][youtube] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vade-bot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](Vade Site)](https://vade-bot.com)
+[![Discord Join](Join the Discord!)](https://discord.gg/DFa5wNFWgP)
 
 ## I'm a happy, 17 year old guy who happens to be a chef!
 
