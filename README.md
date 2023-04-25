@@ -2,7 +2,7 @@
 
 
 
-## I'm a happy, 17 year old guy who happens to be a chef!
+## I'm a happy, 18 year old guy who happens to be a chef!
 
 - 🔭 I own the Vade Community, a Discord Server with over 1,500 members!
 - 🌱 Currently I own a resturaunt in the United Kingdom!
