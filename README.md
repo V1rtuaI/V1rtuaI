@@ -4,8 +4,8 @@
 
 ## I'm a happy, 19 year old guy who happens to be a chef!
 
-- 🔭 I own the Vade Community, a Discord Server with over 1,500 members!
-- 🌱 Currently I own a resturaunt in the United Kingdom!
+- 🔭 I previously owned the Vade Community Discord server that obtained around 25,000 Members.
+- - 🔭 I am currently a Moderator for Rythm HQ. One of the largest Discord Coorporations.
 - 👯 In my spare time I love to learn new programming languages!
 - 🥅 2021 Goals: Learn C#.
 - ⚡ Fun fact: All I do is have fun!
