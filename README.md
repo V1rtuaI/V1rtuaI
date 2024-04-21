@@ -3,8 +3,6 @@
 - 🔭 I previously owned the Vade Community Discord server that obtained around 25,000 Members.
 - - 🔭 I am currently a Moderator for Rythm HQ. One of the largest Discord Coorporations.
 - 👯 In my spare time I love to learn new programming languages!
-- 🥅 2021 Goals: Learn C#.
-- ⚡ Fun fact: All I do is have fun!
 
 ### Connect with me:
 
@@ -38,16 +36,4 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Vade Team Rocket League Montage](https://www.youtube.com/watch?v=krt3avGzJHc&t=2s)
-- [Vade | Memory Lane](https://www.youtube.com/watch?v=ou-BGbZOg6A&t=2s)
-- [Dualtage | Vade V1rtuaI x Vade iscc](https://www.youtube.com/watch?v=HJnzgZWOt-8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCuCs_qYDto1a4rHT2Mtd5LA)
-
-[website]: https://vade-bot.com
-[youtube]: https://www.youtube.com/channel/UCuCs_qYDto1a4rHT2Mtd5LA
 [discord]: https://discord.gg/DFa5wNFWgP
