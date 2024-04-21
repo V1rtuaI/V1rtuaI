@@ -1,9 +1,5 @@
 ### Hi there, I'm Ethan - aka [V1rtuaI][youtube] 👋 
 
-
-
-## I'm a happy, 19 year old guy who happens to be a chef!
-
 - 🔭 I previously owned the Vade Community Discord server that obtained around 25,000 Members.
 - - 🔭 I am currently a Moderator for Rythm HQ. One of the largest Discord Coorporations.
 - 👯 In my spare time I love to learn new programming languages!
